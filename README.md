@@ -1,7 +1,7 @@
 # Marcros-MarginNote
 Marcros for Reading &amp; Learning
 
-# Use Mind Map Manage Notes
+## Use Mind Map Manage Notes
 
 1. Take Notes
     * Copy
